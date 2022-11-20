@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(50,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(51,53): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(52,36): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(53,52): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(54,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(55,46): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(56,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(57,44): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(58,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Comp\source\repos\HW1\HW1\main.cpp(59,57): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  stdrep.cpp
+C:\Users\Comp\source\repos\HW1\HW1\stdrep.cpp(9,20): warning C4018: '<': signed/unsigned mismatch
+  supply.cpp
+  Generating Code...
+  HW1.vcxproj -> C:\Users\Comp\source\repos\HW1\Debug\HW1.exe

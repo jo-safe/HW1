@@ -6,7 +6,6 @@ using namespace std;
 List<string> splitString(string, string);
 // ¬ырезает из строки подстроку по индексам.
 string getSubstring(string line, int index1 = 0, int index2 = -1);
-// ¬озвращает длину целого числа как строки.
-int getIntLen(int);
 // ¬озвращает строку, умноженную на число
 string multiplicateString(string, int);
+

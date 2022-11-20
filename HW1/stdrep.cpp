@@ -40,16 +40,6 @@ string getSubstring(string line, int index1, int index2) {
 	return result;
 }
 
-int getIntLen(int number) {
-	if (number == 0) return 1;
-	int iter = 0;
-	while (number != 0) {
-		number /= 10;
-		iter++;
-	}
-	return iter;
-}
-
 string multiplicateString(string line, int n) {
 	string result = "";
 	for (int i = 0; i < n; i++) {

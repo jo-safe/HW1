@@ -4,9 +4,15 @@
 #include "supply.h"
 #include "stdrep.h"
 
-void readData(Supply &supplies, string path);
-void saveData(Supply supplies, string path);
+#define M_OPEN_FILE 0
+#define M_SAVE_FILE 1
+#define M_SHOW_DATA 2
 
-void operateRequest(int param, int data);
+#define MpS(line, multiplier) multiplicateString(line, multiplier)
+
+List<Supply> readData(string path);
+void saveData(string path, List<Supply> data);
+
+void operateRequest(int param, List<Supply>& data);
 
 int main();
